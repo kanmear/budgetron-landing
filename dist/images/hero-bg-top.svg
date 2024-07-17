@@ -1,1 +1,139 @@
-<svg width="1440" height="318" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient x1="38.706%" y1="-187.115%" x2="18.675%" y2="110.984%" id="a"><stop stop-color="#FFF" stop-opacity="0" offset="0%"/><stop stop-color="#FF6C50" offset="100%"/></linearGradient><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="c"><stop stop-color="#606483" stop-opacity="0" offset="0%"/><stop stop-color="#0B0D19" stop-opacity=".72" offset="100%"/></linearGradient><linearGradient x1="50%" y1="0%" x2="39.334%" y2="79.282%" id="d"><stop stop-color="#0B0D19" stop-opacity=".32" offset="0%"/><stop stop-color="#0B0D19" stop-opacity="0" offset="100%"/></linearGradient><filter id="b"><feTurbulence type="fractalNoise" numOctaves="2" baseFrequency=".3" result="turb"/><feComposite in="turb" operator="arithmetic" k1=".1" k2=".1" k3=".1" k4=".1" result="result1"/><feComposite operator="in" in="result1" in2="SourceGraphic" result="finalFilter"/><feBlend mode="multiply" in="finalFilter" in2="SourceGraphic"/></filter></defs><g fill="none" fill-rule="evenodd"><path d="M88.494 90c67.04 7.177 161.094-24.753 224.996-90H.2c25.3 48.079 42.361 85.083 88.294 90z" transform="translate(1051)" fill="url(#a)" filter="url(#b)"/><path d="M250.464 367.471c101.27 115.965 283.227-105.29 283.227-154.996 0-49.705-111.929-90-250-90s-250 40.295-250 90c0 49.706 115.503 39.032 216.773 154.996z" fill="url(#c)" transform="rotate(143 810.285 354.367)"/><path d="M373.408 256.178c88.026 32.429 156-25.04 156-55.929 0-30.888-69.843-55.929-156-55.929-86.156 0-156 25.04-156 55.93 0 30.888 67.975 23.5 156 55.928z" fill="url(#d)" transform="rotate(136 905.21 332.676)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1440"
+   height="318"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="hero-bg-top.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.53541667"
+     inkscape:cx="720"
+     inkscape:cy="158.75486"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs7">
+    <linearGradient
+       x1="38.706%"
+       y1="-187.115%"
+       x2="18.675%"
+       y2="110.984%"
+       id="a">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0"
+         offset="0%"
+         id="stop1" />
+      <stop
+         stop-color="#FF6C50"
+         offset="1"
+         id="stop2"
+         style="stop-color:#b39ddb;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="c">
+      <stop
+         stop-color="#606483"
+         stop-opacity="0"
+         offset="0%"
+         id="stop3" />
+      <stop
+         stop-color="#0B0D19"
+         stop-opacity=".72"
+         offset="100%"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="39.334%"
+       y2="79.282%"
+       id="d">
+      <stop
+         stop-color="#0B0D19"
+         stop-opacity=".32"
+         offset="0%"
+         id="stop5" />
+      <stop
+         stop-color="#0B0D19"
+         stop-opacity="0"
+         offset="100%"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       id="b"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="2"
+         baseFrequency=".3"
+         result="turb"
+         id="feTurbulence6" />
+      <feComposite
+         in="turb"
+         operator="arithmetic"
+         k1=".1"
+         k2=".1"
+         k3=".1"
+         k4=".1"
+         result="result1"
+         id="feComposite6" />
+      <feComposite
+         operator="in"
+         in="result1"
+         in2="SourceGraphic"
+         result="finalFilter"
+         id="feComposite7" />
+      <feBlend
+         mode="multiply"
+         in="finalFilter"
+         in2="SourceGraphic"
+         id="feBlend7" />
+    </filter>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g9">
+    <path
+       d="M88.494 90c67.04 7.177 161.094-24.753 224.996-90H.2c25.3 48.079 42.361 85.083 88.294 90z"
+       transform="translate(1051)"
+       fill="url(#a)"
+       filter="url(#b)"
+       id="path7" />
+    <path
+       d="M250.464 367.471c101.27 115.965 283.227-105.29 283.227-154.996 0-49.705-111.929-90-250-90s-250 40.295-250 90c0 49.706 115.503 39.032 216.773 154.996z"
+       fill="url(#c)"
+       transform="rotate(143 810.285 354.367)"
+       id="path8" />
+    <path
+       d="M373.408 256.178c88.026 32.429 156-25.04 156-55.929 0-30.888-69.843-55.929-156-55.929-86.156 0-156 25.04-156 55.93 0 30.888 67.975 23.5 156 55.928z"
+       fill="url(#d)"
+       transform="rotate(136 905.21 332.676)"
+       id="path9" />
+  </g>
+</svg>
